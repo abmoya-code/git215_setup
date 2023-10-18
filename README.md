@@ -1,2 +1,2 @@
 # git215_setup
-## Author: Antonio Moya
+<!-- ## Author: Antonio Moya -->
